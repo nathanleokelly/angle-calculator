@@ -11,13 +11,13 @@ To get started with this project, follow these steps:
 ```bash
 git clone <repository_url>
 
-python -m venv myenv
+python -m venv mypc
 
 # run this command if on windows
-myenv\Scripts\activate
+mypc\Scripts\activate
 
 # or this if on mac or linux
-source myenv/bin/activate
+source mypcip/bin/activate
 ```
 
 # To install dependencies
